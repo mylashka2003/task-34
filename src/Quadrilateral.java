@@ -19,6 +19,6 @@ public class Quadrilateral {
     public String toString() {
         return "Quadrilateral{" +
                 "points=" + Arrays.toString(points) +
-                '}';
+                '}' ;
     }
 }
